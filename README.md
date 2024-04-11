@@ -45,7 +45,7 @@ The program can be downloaded and run locally on any machine with the .NET Frame
 ## Repository
 The source code for the Eternal Quest Program is available on [Quest Program](https://github.com/liviagalletti/cse210-hw/blob/main/prove/Develop05/Program.cs).
 
-## Health Metrics Calculator (Python)
+# Health Metrics Calculator (Python)
 
 ### Overview
 This Python script calculates various health metrics based on user input such as gender, birthdate, weight, and height. It provides the user with essential health information including age, body mass index (BMI), and basal metabolic rate (BMR).
