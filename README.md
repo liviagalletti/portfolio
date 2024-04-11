@@ -62,7 +62,4 @@ The SQL script can be executed in a MySQL database management system (DBMS) such
 
 [University Project SQL File](https://github.com/liviagalletti/costa/blob/master/University%20Project.sql)
 
-- This script is useful for educational purposes to understand database design and implementation for a university administration system.
-- Additional modifications and optimizations can be made based on specific requirements and use cases.
-
 
