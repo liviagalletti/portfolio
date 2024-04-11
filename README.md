@@ -1,4 +1,8 @@
-# Scooter Rental Website Project
+# ## Latest Projects
+
+Here are some of my latest projects. Feel free to explore them!:
+
+# Scooter Rental Website Project (HTML/CSS/JS)
 
 ## Description
 This project is a fictional website for scooter rental services. It was built using HTML, CSS, and JavaScript. The website includes features such as:
