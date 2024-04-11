@@ -43,7 +43,7 @@ The Eternal Quest Program is a C# project that serves as a goal management syste
 The program can be downloaded and run locally on any machine with the .NET Framework installed. Users can interact with the program via the command-line interface.
 
 ## Repository
-The source code for the Eternal Quest Program is available on [GitHub](https://github.com/liviagalletti/EternalQuestProgram).
+The source code for the Eternal Quest Program is available on [Quest Program](https://github.com/liviagalletti/cse210-hw/blob/main/prove/Develop05/Program.cs).
 
 ## Health Metrics Calculator (Python)
 
