@@ -64,6 +64,7 @@ This Python script calculates various health metrics based on user input such as
 - `body_mass_index(weight, height)`: Calculates the user's BMI.
 - `basal_metabolic_rate(gender, weight, height, age)`: Calculates the user's BMR based on gender, weight, height, and age.
 
+[Link Health Metrics Calculator on GitHub](https://github.com/liviagalletti/costa/blob/master/fitness.py)
 
 
 # MySQL Workbench (SQL)
